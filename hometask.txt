@@ -1,0 +1,8 @@
+В вектке master в README добавилось "with nice buttons on his jacket (buttons branch)" в отличие от ветки Demo
+Всего коммитов 6 штук:
+    Merge remote-tracking branch 'origin/hat'
+    Merge remote-tracking branch 'origin/boots' into boots_buttons
+    Merge remote-tracking branch 'origin/buttons' into boots_buttons
+    dots
+    boots
+    heat added
